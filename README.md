@@ -4,9 +4,11 @@ This challenge focuses on using the new for ES6 `class` syntax.
 
 ##### Index
 
-* [Instructions](#instructions)
-* [Get Started](#get-started)
-
+- [The _class_ Syntax](#the-class-syntax)
+        - [Index](#index)
+  - [Instructions](#instructions)
+  - [Get Started](#get-started)
+greg
 ## Instructions
 
 Find the file `index.js` and complete the tasks until all of your tests pass.
